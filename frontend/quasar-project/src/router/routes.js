@@ -11,7 +11,6 @@ const routes = [
       {path: '/Lokacija', component: () => { return import('pages/LokacijaPage.vue')}},
       {path: '/Login', component: () => { return import('pages/LoginPage.vue')}},
       {path: '/Registracija', component: () => { return import('pages/RegistracijaPage.vue')}}
-
     ]
   },
 

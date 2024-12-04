@@ -1,6 +1,6 @@
 <template>
   <q-page padding>
-    <q-card dark bordered class="bg-white-9 my-card">
+    <q-card dark bordered class="bg-lime my-card">
       <q-card-section>
         <q-img src="~assets/knjiga.jpg" alt="Slika" :height="300">
           <div class="text-h3 text-weight-bolder absolute-bottom text-center">O nama</div>

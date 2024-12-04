@@ -11,8 +11,8 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title class="text-h2">
-          Knjiznica
+        <q-toolbar-title class="text-h3">
+          Knjižnica
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
@@ -95,7 +95,7 @@ const linksList = [
     caption: 'Registracija',
     icon: 'app_registration',
     link: '#/Registracija'
-  }
+  },
 ]
 
 const leftDrawerOpen = ref(false)

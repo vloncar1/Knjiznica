@@ -85,6 +85,12 @@ const linksList = [
     icon: '',
     link: '#/PopisKnjigaBaza'
   },
+  {
+    title: 'Rezervacija',
+    caption: 'Rezervacija',
+    icon: '',
+    link: '#/Rezervacija'
+  },
 ]
 
 const leftDrawerOpen = ref(false)

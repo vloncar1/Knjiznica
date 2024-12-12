@@ -14,7 +14,8 @@ const routes = [
       { path: '/Lokacija', component: () => { return import('pages/LokacijaPage.vue') } },
       { path: '/Login', component: () => { return import('pages/LoginPage.vue') } },
       { path: '/Registracija', component: () => { return import('pages/RegistracijaPage.vue') } },
-      { path: '/PopisKnjigaBaza', component: () => { return import('pages/PopisKnjigaBazaPage.vue') } }
+      { path: '/PopisKnjigaBaza', component: () => { return import('pages/PopisKnjigaBazaPage.vue') } },
+      { path: '/Rezervacija', component: () => { return import('pages/RezervacijaPage.vue') } }
     ]
   },
 

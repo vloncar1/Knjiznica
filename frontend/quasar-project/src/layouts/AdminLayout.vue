@@ -83,40 +83,16 @@
       link: '#/Onama'
     },
     {
-      title: 'Lokacija',
-      caption: 'Lokacija knjižnice',
-      icon: 'map',
-      link: '#/Lokacija'
-    },
-    {
-      title: 'Login',
-      caption: 'Prijava',
-      icon: 'login',
-      link: '#/Login'
-    },
-    {
-      title: 'Registracija',
-      caption: 'Registracija',
-      icon: 'app_registration',
-      link: '#/Registracija'
-    },
-    {
-      title: 'PopisKnjiga1',
-      caption: 'PopisKnjiga1',
-      icon: 'book',
-      link: '#/PopisKnjiga1'
-    },
-    {
-      title: 'Rezervacija',
-      caption: 'Rezervacija',
+      title: 'Popis korisnika',
+      caption: 'Popis Korisnika',
       icon: 'note',
-      link: '#/Rezervacija'
+      link: '#/PopisKorisnika'
     },
     {
-      title: 'Admin',
-      caption: 'Admin',
-      icon: 'admin',
-      link: '#/Admin'
+      title: 'Logout',
+      caption: 'Logout',
+      icon: 'logout',
+      link: '#/Logout'
     },
   ]
   

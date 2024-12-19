@@ -10,7 +10,6 @@
     
     <q-btn label="Potvrdi" @click="registerUser" color="primary" />
     
-    <!-- Prikaz poruke zahvale ako je registracija uspješna -->
     <div v-if="registrationSuccess" class="text-positive text-h6 q-mt-md">
       Registracija uspjesna
     </div>
